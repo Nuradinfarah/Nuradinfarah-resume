@@ -1,0 +1,43 @@
+body {
+  background-color: lightyellow; 
+  
+}
+
+h1 {
+  color: darkblue; 
+  font-size: 36px;
+  font-family: arial; 
+  background-color: white
+    padding-left: 20px;
+  border: 1px solid black;
+}
+
+.header{
+  background-color: yellow;
+}
+
+.introduction {
+  background-color: gray;
+  font-family: arial;
+  margin-left: 350px;
+  font-size: 13px;
+  color: white;
+  
+}
+
+.education {
+  color: blue;
+  font-size: 18px;
+  margin-left: 10px;
+  
+}
+
+.end {
+  
+    border: 2px solid blue; 
+  background-color: yellow;
+    padding-left: 40px
+ 
+   
+    
+}
